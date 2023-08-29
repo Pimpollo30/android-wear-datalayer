@@ -1,0 +1,19 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ProyectoWear/wear/src/main/res/layout/activity_main.xml" value="0.23917322834645668" />
+        <entry key="..\:/Users/Abraham Raymundo/AndroidStudioProjects/ProyectoWear/mobile/src/main/res/layout/activity_main.xml" value="0.17" />
+        <entry key="..\:/Users/Abraham Raymundo/AndroidStudioProjects/ProyectoWear/wear/src/main/res/drawable/circulo.xml" value="0.147" />
+        <entry key="..\:/Users/Abraham Raymundo/AndroidStudioProjects/ProyectoWear/wear/src/main/res/layout/activity_main.xml" value="0.5546218487394958" />
+        <entry key="..\:/Users/Abraham Raymundo/Desktop/ProyectoWear/wear/src/main/res/layout/activity_main.xml" value="0.6631799163179917" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
